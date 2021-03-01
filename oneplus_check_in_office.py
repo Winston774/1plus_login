@@ -2,8 +2,8 @@
 from selenium import webdriver
 
 #setup logins
-ID = "winston.huang@oneplus.com"
-PassWord = "P@ssw0rd"
+ID = "你的郵簡@oneplus.com"
+PassWord = "你的密碼"
 
 #setup path to chromedriver.exe
 driver = webdriver.Chrome('/Users/pooh7/Downloads/chromedriver')
